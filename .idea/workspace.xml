@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5375206-bd23-4c7e-bf95-9a71d5d77693" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Myfile.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Myfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/destnfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filename" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jar/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayContains.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayDifferenceSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayEquals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayExtend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayFR.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayFill.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayInsertElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayLength.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayMaxMin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayOt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayRemove.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayRetain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArrayUnion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Array/ArraysSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/ArrayToCollections.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/CollectionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/CollectionOutPut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/CollectionReadOnly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/CollectionReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/CollectionShuffle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/CollectionSize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/CollectionToArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/CollectionTraverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/CollectionsCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/HashMapTraverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/HashtableTraverseContent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/HashtableTraverseKey.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/ListDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/ListMinMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/ListReplaceElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/ListRotate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/MapTraverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Collection/RemoveAssighElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/DataStructureQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/GetLinkedListElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/InToPost.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/LinkedListAddElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/LinkedListDeleteElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/LinkedListDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/LinkedListGetElement1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/LinkedListModify.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/StackCustom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/StringReverserThroughStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/Summation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/VectorGetIndex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/VectorMax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/DataStructure/VectorRotate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Date/CurrentTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Date/DateSimpleDateFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Date/Date_TimeStamp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Date/GetYearMonth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/AllDirectory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/AllDirectory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/CurrentDirectory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/DeleteDirectory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/DirectoryIsEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/DirectoryLastModified.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/DirectoryRecursive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/DirectorySize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/FileIsHidden.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/FileList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/FileParentDirectory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/FileUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/SystemRoots.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/TraverseDirectory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/WithX$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Directory/WithX.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/ChainException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/CustomException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/ExcepitionFinally.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/ExceptionCatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/ExceptionOverload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/ExceptionStackInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/Input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/MultiThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/MultipleException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/MyThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Exception/WrongInputException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileAdd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileCompare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileCopy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileCreateFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileCreateTempFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileDelete.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileExists.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileLastModified.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileLastModifiedTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileReName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileRead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileReadOnly.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileSize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileTemp1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileTemp2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/File/FileWrite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Graphic/InvertedTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Graphic/MultiplicationTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Graphic/Parallelogram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Graphic/Rect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Graphic/Rhombus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Graphic/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/META-INF/JavaBasic.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/ArrayOutPut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/Car2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/Findareas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodBreak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodContinue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodEnum1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodEnum1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodEnum2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodForForeach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodInstance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodLable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodOverloadingVarargs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MethodVarags.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/Method_Reload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Method/hanoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/CheckPort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/Communication/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/Communication/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/GetIP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/MultiThreadServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/NetworkDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/NetworkDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/NetworkDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/NetworkDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/NetworkDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/TelefileSize.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/WebCapture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Network/WebPing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/SearchString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/SearchlastString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/SplitByStringTokenizer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/StringCompareEmp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/StringOptimization.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/StringRegionMatches.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/StringReplace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/StringReverse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/StringSplit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/StringToLowerCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/StringToUpperCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/removChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/String/scoreLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/CubbyHole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/GetAllThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/GetThreadIDDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/Lock/Lock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/Lock/LockA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/Lock/LockAa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/Lock/LockB.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/Lock/LockBb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/Lock/UnLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/MyThread1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/MyThread2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/ProducerConsumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/SimplePriorities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/SleepingThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/ThreadID.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/ThreadInterrupt1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/ThreadInterrupt2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/ThreadPriorities2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/ThreadPriorities2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/ThreadStatus1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/ThreadStatus2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/TwoThreadAlive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaBasic/Thread/TwoThreadGetName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayContains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayDifferenceSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayExtend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayFR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayInsertElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayOt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayRetain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArrayUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/ArraysSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ArrayToCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionOutPut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionReadOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionShuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/CollectionsCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/HashMapTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/HashtableTraverseContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/HashtableTraverseKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ListMinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ListReplaceElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/ListRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/MapTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/RemoveAssighElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/DataStructureQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/GetLinkedListElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/InToPost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedListAddElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedListDeleteElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedListGetElement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedListModify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/StackCustom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/StringReverserThroughStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/Summation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/VectorGetIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/VectorMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/VectorRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date/CurrentTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date/DateSimpleDateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date/Date_TimeStamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date/GetYearMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/AllDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/CurrentDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/DeleteDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/DirectoryIsEmpty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/DirectoryLastModified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/DirectoryRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/DirectorySize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/FileIsHidden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/FileList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/FileParentDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/SystemRoots.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/TraverseDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Directory/WithX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ChainException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExcepitionFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionStackInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/MultipleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileCreateFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileCreateTempFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileExists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileLastModified.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileLastModifiedTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileReName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileReadOnly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileTemp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileTemp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/File/FileWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/InvertedTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/Rhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphic/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/ArrayOutPut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/Findareas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodEnum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodEnum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodForForeach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodLable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodOverloadingVarargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/MethodVarags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/Method_Reload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method/hanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/CheckPort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/Communication/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/Communication/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/GetIP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/MultiThreadServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/NetworkDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/NetworkDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/NetworkDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/NetworkDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/NetworkDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/TelefileSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/WebCapture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Network/WebPing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/SearchString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/SearchlastString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/SplitByStringTokenizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/StringCompareEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/StringOptimization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/StringRegionMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/StringReplace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/StringSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/StringToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/StringToUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/removChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/scoreLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/GetAllThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/GetThreadIDDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Lock/Lock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Lock/UnLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/SimplePriorities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/SleepingThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadInterrupt1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadInterrupt2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadPriorities2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadStatus1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadStatus2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/TwoThreadAlive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/TwoThreadGetName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/srcfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webcapture.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Collections/ArrayToCollections.java" />
+        <option value="$PROJECT_DIR$/src/Collections/CollectionsCompare.java" />
+        <option value="$PROJECT_DIR$/src/Collections/HashMapTraverse.java" />
+        <option value="$PROJECT_DIR$/src/Collection/CollectionSize.java" />
+        <option value="$PROJECT_DIR$/src/Collection/CollectionShuffle.java" />
+        <option value="$PROJECT_DIR$/src/Collection/CollectionTraverse.java" />
+        <option value="$PROJECT_DIR$/src/Collection/MapTraverse.java" />
+        <option value="$PROJECT_DIR$/src/Collection/CollectionReverse.java" />
+        <option value="$PROJECT_DIR$/src/Collection/RemoveAssighElement.java" />
+        <option value="$PROJECT_DIR$/src/Collection/CollectionReadOnly.java" />
+        <option value="$PROJECT_DIR$/src/Collection/CollectionOutPut.java" />
+        <option value="$PROJECT_DIR$/src/Collection/CollectionToArray.java" />
+        <option value="$PROJECT_DIR$/src/Collection/ListRotate.java" />
+        <option value="$PROJECT_DIR$/src/Collection/ListMinMax.java" />
+        <option value="$PROJECT_DIR$/src/Collection/HashTableTraverseKey.java" />
+        <option value="$PROJECT_DIR$/src/Collection/HashtableTraverseKey.java" />
+        <option value="$PROJECT_DIR$/src/Collection/HashtableTraverseContent.java" />
+        <option value="$PROJECT_DIR$/src/Collection/CollectionDemo.java" />
+        <option value="$PROJECT_DIR$/src/Collection/ListReplaceElement.java" />
+        <option value="$PROJECT_DIR$/src/Collection/ListDemo.java" />
+        <option value="$PROJECT_DIR$/src/Network/GetIP.java" />
+        <option value="$PROJECT_DIR$/src/Network/CheckPort.java" />
+        <option value="$PROJECT_DIR$/src/Network/NetworkDemo1.java" />
+        <option value="$PROJECT_DIR$/src/Network/TelefileSize.java" />
+        <option value="$PROJECT_DIR$/src/Network/MultiThreadServer.java" />
+        <option value="$PROJECT_DIR$/src/Network/NetworkDemo.java" />
+        <option value="$PROJECT_DIR$/src/Network/WebPing.java" />
+        <option value="$PROJECT_DIR$/src/Network/WebCapture.java" />
+        <option value="$PROJECT_DIR$/src/Network/NetworkDemo3.java" />
+        <option value="$PROJECT_DIR$/src/Network/NetworkDemo4.java" />
+        <option value="$PROJECT_DIR$/src/Network/NetworkDemo5.java" />
+        <option value="$PROJECT_DIR$/src/Network/Communication/Server.java" />
+        <option value="$PROJECT_DIR$/src/Network/Communication/Client.java" />
+        <option value="$PROJECT_DIR$/src/Thread/TwoThreadAlive.java" />
+        <option value="$PROJECT_DIR$/src/Thread/TwoThreadGetName.java" />
+        <option value="$PROJECT_DIR$/src/Thread/ThreadStatus.java" />
+        <option value="$PROJECT_DIR$/src/Thread/SimplePriorities.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Lock/Lock.java" />
+        <option value="$PROJECT_DIR$/src/Thread/Lock/UnLock.java" />
+        <option value="$PROJECT_DIR$/src/Thread/GetThreadID.java" />
+        <option value="$PROJECT_DIR$/src/Thread/GetThreadIDDemo.java" />
+        <option value="$PROJECT_DIR$/src/Thread/ThreadDemo1.java" />
+        <option value="$PROJECT_DIR$/src/Thread/SleepingThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/ThreadInterrupt.java" />
+        <option value="$PROJECT_DIR$/src/Thread/ProducerConsumer.java" />
+        <option value="$PROJECT_DIR$/src/Thread/ThreadStatus2.java" />
+        <option value="$PROJECT_DIR$/src/Thread/GetAllThread.java" />
+        <option value="$PROJECT_DIR$/src/Thread/ThreadPriorities2.java" />
+        <option value="$PROJECT_DIR$/src/Thread/ThreadInterrupte.java" />
+        <option value="$PROJECT_DIR$/src/Thread/ThreadInterrupt2.java" />
+        <option value="$PROJECT_DIR$/.gitattributes" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThreadInterrupt2">
+    <configuration name="GetAllThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.GetAllThread" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ProducerConsumer" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadInterrupt2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadInterrupt2" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPriorities2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadPriorities2" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadStatus2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadStatus2" />
+      <module name="JavaBasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadInterrupt2" />
+        <item itemvalue="Application.ThreadPriorities2" />
+        <item itemvalue="Application.GetAllThread" />
+        <item itemvalue="Application.ThreadStatus2" />
+        <item itemvalue="Application.ProducerConsumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5375206-bd23-4c7e-bf95-9a71d5d77693" name="Default Changelist" comment="" />
+      <created>1553858216629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553858216629</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Java基础">
+      <created>1554458508224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554458508224</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Java基础">
+      <created>1554550692831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554550692831</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java基础">
+      <created>1554551222894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554551222894</updated>
+    </task>
+    <task id="LOCAL-00004" summary="重载方法异常处理">
+      <created>1554628721838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554628721838</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Java基础">
+      <created>1554636391625</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554636391625</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Java基础">
+      <created>1554636671943</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554636671943</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Java基础">
+      <created>1554639362896</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554639362896</updated>
+    </task>
+    <task id="LOCAL-00008" summary="获取异常的堆栈信息">
+      <created>1554639600719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1554639600719</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Java基础">
+      <created>1554639786618</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554639786618</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Java基础">
+      <created>1554643182766</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554643182766</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Java基础">
+      <created>1554643750262</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554643750262</updated>
+    </task>
+    <task id="LOCAL-00012" summary="自定义异常">
+      <created>1554645063796</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554645063796</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Java基础">
+      <created>1554645308835</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554645308835</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Java基础">
+      <created>1554647879816</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1554647879816</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Java基础">
+      <created>1554709613440</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1554709613440</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Java基础">
+      <created>1554710715708</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1554710715708</updated>
+    </task>
+    <task id="LOCAL-00017" summary="删除链表中的元素">
+      <created>1554713206106</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1554713206106</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Java基础">
+      <created>1554718442223</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1554718442223</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Java基础">
+      <created>1554718655904</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1554718655904</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Java基础">
+      <created>1554718838363</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1554718838363</updated>
+    </task>
+    <task id="LOCAL-00021" summary="压栈出栈的方法实现字符串反转">
+      <created>1554721916143</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1554721916143</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Java基础">
+      <created>1554722302115</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1554722302115</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Java基础">
+      <created>1554722523869</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1554722523869</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Java基础">
+      <created>1554722701930</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1554722701930</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Java基础">
+      <created>1554737231613</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1554737231613</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Java基础">
+      <created>1554737614948</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1554737614948</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Java基础_Java实例（完结）">
+      <created>1555158079251</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1555158079251</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Java基础_Java实例（完结）">
+      <created>1555158227004</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1555158227004</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Java基础_Java实例（完结）">
+      <created>1555158535403</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1555158535403</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Java基础_Java实例（完结）">
+      <created>1555159452085</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1555159452085</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Java基础_Java实例">
+      <created>1555160657838</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1555160657838</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2934947" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8180328" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
+      <window_info anchor="bottom" id="SVN Repositories" order="11" weight="0.3295082" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JavaBasic" />
+    <MESSAGE value="重载方法异常处理" />
+    <MESSAGE value="获取异常的堆栈信息" />
+    <MESSAGE value="自定义异常" />
+    <MESSAGE value="删除链表中的元素" />
+    <MESSAGE value="压栈出栈的方法实现字符串反转" />
+    <MESSAGE value="Java基础" />
+    <MESSAGE value="Java基础_Java实例（完结）" />
+    <MESSAGE value="Java基础_Java实例" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java基础_Java实例" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/VectorMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/LinkedListModify.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/VectorRotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#450#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#133#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/ArrayToCollections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/CollectionsCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#208#216#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/HashMapTraverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#146#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/CollectionSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#1028#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/CollectionShuffle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#582#0" expanded="true" />
+            <element signature="e#135#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/CollectionTraverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#1331#0" expanded="true" />
+            <element signature="e#178#186#0" expanded="true" />
+            <element signature="e#735#743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/MapTraverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="37" lean-forward="true" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#160#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/CollectionReverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#921#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/RemoveAssighElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#1149#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/CollectionReadOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/CollectionOutPut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="68" lean-forward="true" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/CollectionToArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#134#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/ListRotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/ListMinMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/HashtableTraverseKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#465#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/HashtableTraverseContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/CollectionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#2041#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/ListReplaceElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#491#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Collection/ListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#708#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/GetIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/CheckPort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#722#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/TelefileSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/MultiThreadServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/WebPing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webcapture.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/WebCapture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/NetworkDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/NetworkDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/NetworkDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/NetworkDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#644#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/NetworkDemo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="75" lean-forward="true" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/Communication/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Network/Communication/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="12" column="85" lean-forward="true" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/TwoThreadAlive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#822#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/TwoThreadGetName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadStatus1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/SimplePriorities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#801#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/Lock/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/Lock/UnLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="69" column="42" lean-forward="true" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#2736#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/GetThreadIDDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#1780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/SleepingThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#801#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/ProducerConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#2001#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadStatus2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#2119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/GetAllThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#612#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadPriorities2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#1210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadInterrupt1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/ThreadInterrupt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#1691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaBasic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

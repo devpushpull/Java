@@ -1,0 +1,8 @@
+*.iml linguist-language=java
+*.txt linguist-language=java
+*.logo linguist-language=java
+*.html linguist-language=java
+*.htm linguist-language=Scala
+*.xml linguist-language=Scala
+*.js linguist-language=java
+*.css linguist-language=java
